@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Michał Roczek
 - 👀 I’m interested in: Data Science, Data Analysis, Data Warehouses
-- 🌱 I’m currently learning: Pandas, NumPy, PL/SQL
+- 🌱 I’m currently learning: ETL, Informatica PowerCenter, Pandas, NumPy, PL/SQL
 - 📫 How to reach me: https://www.linkedin.com/in/micha%C5%82-roczek-95a416223/ 
 
 <!---
